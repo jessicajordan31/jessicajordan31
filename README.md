@@ -2,7 +2,7 @@
 Connect with me on [LinkedIn](www.linkedin.com/in/jessica-jordan31) or email me at jessicajordan_2027@depauw.edu to learn more about my projects, interests, and career goals.
 
 ## About me
-I'm excited to learn more about full-stack development and how to positively impact UI/UX. Here are some quick points to learn more about me!
+I'm excited to learn more about full-stack development and how to positively impact UI/UX. Here are some quick points to get to know more about me!
 <!-- + 🔗 My Portfolio-->
 + 🎓 Studying CS and Econ @ DePauw University
 + 🚀 Organizations: ACM-W, CodePath, Girls Who Code, Rewriting the Code
